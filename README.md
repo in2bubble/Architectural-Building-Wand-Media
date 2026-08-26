@@ -1,6 +1,6 @@
-# [Upgraded Iron Chests] — Media Assets
+# [Architectural-Building] — Media Assets
 
-Official media and assets repository for **[Upgraded Iron Chests]**.
+Official media and assets repository for **[Architectural-Building]**.
 
 ## 🔗 Links
 - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectural-building-wand)
