@@ -1,6 +1,6 @@
-# [Architectural-Building] — Media Assets
+# [Architectural-Building-Wand] — Media Assets
 
-Official media and assets repository for **[Architectural-Building]**.
+Official media and assets repository for **[Architectural-Building-Wand]**.
 
 ## 🔗 Links
 - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectural-building-wand)
